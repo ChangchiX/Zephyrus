@@ -1,7 +1,9 @@
 Zephyrus
 ==============================
 
-A short description of the project.
+Zephyrus is the project for imagery tasks in data science team, including cloud masking, yield prediction, vegetation index, crop classification and crop health.
+
+The structure is from default cookiecutter and we can modify it later.
 
 Project Organization
 ------------
